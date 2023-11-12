@@ -26,7 +26,7 @@ From its name it's user mood it doesn't require any password to enter it. It all
 ### Used Technologies:
 This project is mainly based on single linkedlist.
 I have used two single linked lists, one to store the information of patients, and the other to store time slots to allow me to delete and restore the slots easily.
-ID is the Key to the list of patients. If I want to find any node, I simply uses id as The Id cannot be repeated by any two patients.
+ID is the Key to the list of patients. If I want to find any node, I simply use the Id as The Id cannot be repeated by any two patients.
 
 ##
 ###Challenges that faced me:
