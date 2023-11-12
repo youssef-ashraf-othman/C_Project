@@ -34,9 +34,10 @@ The biggest challenge was how to handle if someone entered a character instead o
 To be known when you do that when you expect a number the program will go for infinity loop if "scanf" statement is within a loop.
 I couldn't easily let the user to enter characters in some fields that cannot be characters like age, and Id.
 I had to force him to enter integers.
-This doesn't mean that I didn't use a characters instead of integers in some options like the ones which the user use to enter any menu but, it leads to another problem which is the bouncing of enter key that the program reads it as an input besides the real input so I had to deal with it also.
+This doesn't mean that I didn't use a characters instead of integers in some options like the ones which the user use to enter any menu but, it leads to another problem which is the bouncing of enter key that the program reads it as an input besides the real input so I had to deal with it too.
 ##
 ### Features I want too add in the future : 
 1- Making a GUI to the program to make it more Easier to use 
+
 2- Expanding the options of admin, user, and time slots of course 
 
