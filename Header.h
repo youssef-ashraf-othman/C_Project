@@ -1,5 +1,5 @@
-#ifndef ADMIN_H_INCLUDED
-#define ADMIN_H_INCLUDED
+#ifndef HEADER_H_INCLUDED
+#define HEADER_H_INCLUDED
 
 void admin(int *ptr);
 void user(int * ptr);
